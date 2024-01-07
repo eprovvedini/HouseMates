@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "253954885201",
+    "project_id": "housemates-8aaa8",
+    "storage_bucket": "housemates-8aaa8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253954885201:android:c23eac1a05b29c386ada70",
+        "android_client_info": {
+          "package_name": "com.example.housemates"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAG8LGArQ6BOt1-kycRSJq4lxd72-myDc4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
